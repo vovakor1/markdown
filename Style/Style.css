@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+body {
+    font-family: ﻿Lato-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+    font-size: 10pt;
+    width: 1700px;
+    background-image: url("Images/Header BG@1X.jpeg");
+    position: relative;
+}
+header {
+    height: 1064px;
+    padding-top: 31px;
+    background-color: rgba(0, 0, 0, 0.83);
+}
+.header_logo{
+    margin-left: 206px;
+    display: inline-block;
+}
+.topnav{
+    padding-top: 7px;
+    padding-left: 48.5%;
+    width: 892px;
+}
+nav{
+    display: inline-block;
+}
+.headerText{
+    padding-top: 435px;
+}
+.topnav a{
+    color: #fff;
+    font-size: 16pt;
+    font-family: 'Lato', sans-serif;
+    padding: 12px 4.5%;
+}
+nav+span{
+    padding-top: 500px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 72pt;
+    display: block;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+span+span{
+    text-align: center;
+    display: block;
+    color: white;
+    font-size: 32pt;
+}
